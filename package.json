@@ -45,7 +45,7 @@
     "mocha": "^9.1.4",
     "nyc": "^15.1.0",
     "prettier": "2.5.1",
-    "puppeteer": "^11.0.0",
+    "puppeteer": "^19.9.0",
     "reg-notify-github-plugin": "^0.11.1",
     "reg-suit": "^0.11.1",
     "reg-suit-core": "^0.11.1",
